@@ -1,4 +1,4 @@
 # Character-Studio
 Software for creating video game/VR/real time characters.
 
-Qt required
+Visual Studio 2019 required
